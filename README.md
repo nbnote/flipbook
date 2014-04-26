@@ -1,4 +1,4 @@
-#jQuery.nnmGrid
+#Flipbook.js
 
 スプライトシートアニメーションを制御するシンプルなスクリプト
 
