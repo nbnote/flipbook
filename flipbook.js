@@ -7,8 +7,7 @@
  * @link https://github.com/nbnote/flipbook
  */
 
-;
-(function( window, document, undefined ) {
+;(function( window, document, undefined ) {
 
 	var Flipbook = function( screen, numFrames, direction ) {
 		this._screen = typeof screen === 'string' ? document.getElementById( screen ) :
